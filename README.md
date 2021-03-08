@@ -1,2 +1,3 @@
 # hello_world
-test
+
+That's right... Let's go from Ombak to Pantai Cemagi and back soon!
